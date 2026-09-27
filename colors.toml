@@ -1,0 +1,35 @@
+mode = "dark"
+
+# Quiet industrial space: graphite hull, phosphor consoles, bone panels, amber lamps.
+accent = "#90B487"
+selection = "#34483D"
+muted = "#71827D"
+
+background = "#0B100E"
+dark_background = "#080C0A"
+darker_background = "#050806"
+lighter_background = "#141B17"
+
+foreground = "#D8D5C5"
+dark_foreground = "#71827D"
+light_foreground = "#B7B9AC"
+bright_foreground = "#F1EFE3"
+
+red = "#C9695F"
+yellow = "#D4B66A"
+orange = "#D49B52"
+green = "#90B487"
+cyan = "#75AAA0"
+blue = "#6F91A0"
+magenta = "#A98298"
+brown = "#92755A"
+
+bright_red = "#E08579"
+bright_yellow = "#E8CD82"
+bright_green = "#ADD0A4"
+bright_cyan = "#98C8BD"
+bright_blue = "#91AFBB"
+bright_magenta = "#C5A0B5"
+
+selection_background = "#34483D"
+selection_foreground = "#F1EFE3"
